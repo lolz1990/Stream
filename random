@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ABP ANANDA" tvg-logo="https://i.pinimg.com/originals/4f/b9/a9/4fb9a98f0ea271f7bc2fcd225679f33b.jpg", ABP Ananda
+
+https://abp-i.akamaihd.net/hls/live/765530-b/abpananda/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="NEWS18 BANGLA"  tvg-logo="https://images.news18.com/static_news18/pix/ibnhome/news18/images/microsite/channel_hub/bengali.png", NEWS18 Bangla
+
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kolkatatv.org/assets/website/images/kolkata_tv.png" , Kolkata tv
+
+https://m-c047-j2apps.s.llnwi.net/hls/5956.KolkataLive.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ndtv.com/common/images/ogndtv.png", NDTV Hindi
+https://load.airtelxstream.in/ndtvindia/smil:common.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Sky_News_2020.png/revision/latest/scale-to-width-down/300?cb=20200903074826" , SKY NEWS
+
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" , ZEE Bangla
+
+http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=zeebanglahd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gtv Bangladesh
+
+http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/122
+
+#EXTINF:-1, IPL SERVER 2
+
+http://webo.asia/jVy4FsreTT/gossekt8nV/7888
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Astro_Cricket.png/revision/latest/scale-to-width-down/200?cb=20200924122233", Astro cricket
+
+http://mantul.biz.id:8888/Franky/fGpHSzc6Fa/4986
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png", S cricket
+
+http://mantul.biz.id:8888/Franky/fGpHSzc6Fa/4914
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest/scale-to-width-down/340?cb=20180916123020" , Fox cricket
+
+http://85.203.33.15:25461/GG3R15rlPW/ZOHnfpIDcV/191813?play_token=p733W6Vw0Q&token=ShdcBRFREglDAQcHWwpYB1dVAFMKAAEFBQdcUFEHCFNUAlBSAF8JVgRGHxERR0tSUF5mClwbCQVWVwoCAU4bRUJQRjsLXRIJQ1ABC1YEChUdEU0KVVwRDVdTCQcDUwoDAw0YRhJQVBFbRgIBVgYNFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCgYGABtPGlpcQggRS0wVWBt5fxcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUACCwMAChse
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1134.1507600280.png" , Sky Sports FHD
+
+http://m3ulink.com:7899/ssalunas3/pallmall1969/8614
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1134.1507600280.png" , Sky Sports HD
+
+http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/753
+
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-sports-hd1-star-sports-2-png-image-with-transparent-star-sports-png-840_859.png" , Star Sports HD
+
+http://iptvbroadcast.ddns.net:25461/Niaz2020/Niaz2020/661
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/13-HD.png/120px-13-HD.png" , beIN Sports HD
+
+http://31.220.1.182:6969/ingrid_j23@hotmail.com/QKfxiMvJi8/8604
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Sony_Six.jpg/revision/latest/scale-to-width-down/200?cb=20171109134908" , Sony six
+
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
+
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/220?cb=20190322143617" , Sony Ten 1
+
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD
+
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/220?cb=20190322143848" , Sony Ten 2
+
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/220?cb=20190322144135" , Sony Ten 3
+
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8?HjFreeTV=TEN3HD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735" , Star movies select
+
+http://webo.asia/jVy4FsreTT/gossekt8nV/8020
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/220?cb=20200430075815" , & flix
+
+http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=andflixhd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Sony_Pix_HD.png/revision/latest/scale-to-width-down/264?cb=20191203075048" , Sony pix
+
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/SET_Max_UK.jpg/revision/latest?cb=20171109134225" , Set max
+
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8?HjFreeTV=MAXHD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png", HBO HD
+
+http://iptvtree.net:8080/12357/b5d7b894/82603
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png", movies now
+
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/340?cb=20200114193517", mnx
+
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/MTV_Beats_HD-0.jpg/revision/latest/scale-to-width-down/200?cb=20180711070218" , MTV Beats
+
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+
+#EXTINF:-1, pop pataka
+
+https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u
+
+#EXTINF:-1, Dil se
+
+https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png", Mastii
+https://load.airtelxstream.in/mastiii/smil:common.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332", 9xm
+https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png" , Nat Geo Wild HD
+
+http://webo.asia/jVy4FsreTT/gossekt8nV/20860
